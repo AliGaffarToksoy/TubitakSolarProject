@@ -1,0 +1,12 @@
+{
+  "name": "TubitakSolarProject - AI CleanBot",
+  "description": "An autonomous solar panel cleaning system management dashboard featuring AI image analysis and real-time efficiency monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered image processing",
+    "Real-time telemetry visualization",
+    "Autonomous robot control simulation"
+  ]
+}
