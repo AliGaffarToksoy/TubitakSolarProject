@@ -168,12 +168,6 @@ Fork the repo, create a feature branch, and submit a pull request.
 
 ---
 
-### 📬 Contact & Demo
-
-* Live Demo (AI Studio): https://ai.studio/apps/2ec5aeff-1dae-49d3-b588-921f844511cc￼
-* Project Repository: [Add your GitHub URL here]
-* TÜBİTAK Project ID: 2209/A – AI CleanBot
-
 <div align="center">
   <sub>Built with ❤️ for sustainable solar energy & autonomous robotics</sub>
 </div>
